@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\bin\Debug\net7.0\GreatingbyName.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\bin\Debug\net7.0\GreatingbyName.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\bin\Debug\net7.0\GreatingbyName.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\bin\Debug\net7.0\GreatingbyName.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\bin\Debug\net7.0\GreatingbyName.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\refint\GreatingbyName.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\GreatingbyName.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\GreatingbyName\obj\Debug\net7.0\ref\GreatingbyName.dll

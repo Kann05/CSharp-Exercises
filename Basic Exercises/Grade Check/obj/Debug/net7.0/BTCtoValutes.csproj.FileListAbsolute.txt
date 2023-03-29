@@ -1,0 +1,30 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\bin\Debug\net7.0\BTCtoValutes.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\bin\Debug\net7.0\BTCtoValutes.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\bin\Debug\net7.0\BTCtoValutes.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\bin\Debug\net7.0\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\bin\Debug\net7.0\BTCtoValutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\refint\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\BTCtoValutes.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\BTCtoValutes\obj\Debug\net7.0\ref\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\refint\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\bin\Debug\net7.0\BTCtoValutes.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\bin\Debug\net7.0\BTCtoValutes.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\bin\Debug\net7.0\BTCtoValutes.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\bin\Debug\net7.0\BTCtoValutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\bin\Debug\net7.0\BTCtoValutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\BTCtoValutes.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Grade Check\obj\Debug\net7.0\ref\BTCtoValutes.dll
