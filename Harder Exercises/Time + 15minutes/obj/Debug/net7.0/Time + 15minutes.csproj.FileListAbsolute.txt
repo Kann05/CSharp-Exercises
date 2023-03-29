@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\bin\Debug\net7.0\Time + 15minutes.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\bin\Debug\net7.0\Time + 15minutes.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\bin\Debug\net7.0\Time + 15minutes.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\bin\Debug\net7.0\Time + 15minutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\bin\Debug\net7.0\Time + 15minutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\refint\Time + 15minutes.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\Time + 15minutes.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Time + 15minutes\obj\Debug\net7.0\ref\Time + 15minutes.dll
