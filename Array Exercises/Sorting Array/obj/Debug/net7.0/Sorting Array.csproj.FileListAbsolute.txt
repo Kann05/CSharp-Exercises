@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\bin\Debug\net7.0\Sorting Array.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\bin\Debug\net7.0\Sorting Array.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\bin\Debug\net7.0\Sorting Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\bin\Debug\net7.0\Sorting Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\bin\Debug\net7.0\Sorting Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\refint\Sorting Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\Sorting Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Sorting Array\obj\Debug\net7.0\ref\Sorting Array.dll
