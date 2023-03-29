@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\bin\Debug\net7.0\CelsiusToFarenheit.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\bin\Debug\net7.0\CelsiusToFarenheit.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\bin\Debug\net7.0\CelsiusToFarenheit.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\bin\Debug\net7.0\CelsiusToFarenheit.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\bin\Debug\net7.0\CelsiusToFarenheit.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\refint\CelsiusToFarenheit.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\CelsiusToFarenheit.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CelsiusToFarenheit\obj\Debug\net7.0\ref\CelsiusToFarenheit.dll

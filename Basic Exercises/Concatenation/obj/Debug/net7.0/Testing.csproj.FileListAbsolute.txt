@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\bin\Debug\net7.0\Testing.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\bin\Debug\net7.0\Testing.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\bin\Debug\net7.0\Testing.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\bin\Debug\net7.0\Testing.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\bin\Debug\net7.0\Testing.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\refint\Testing.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\Testing.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Concatenation\obj\Debug\net7.0\ref\Testing.dll
