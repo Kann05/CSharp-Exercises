@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\bin\Debug\net7.0\Lambda exercise.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\bin\Debug\net7.0\Lambda exercise.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\bin\Debug\net7.0\Lambda exercise.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\bin\Debug\net7.0\Lambda exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\bin\Debug\net7.0\Lambda exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\refint\Lambda exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\Lambda exercise.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Lambda exercise\obj\Debug\net7.0\ref\Lambda exercise.dll
