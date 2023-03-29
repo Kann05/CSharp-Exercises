@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\bin\Debug\net7.0\Elevator.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\bin\Debug\net7.0\Elevator.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\bin\Debug\net7.0\Elevator.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\bin\Debug\net7.0\Elevator.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\bin\Debug\net7.0\Elevator.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\refint\Elevator.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\Elevator.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Elevator\obj\Debug\net7.0\ref\Elevator.dll
