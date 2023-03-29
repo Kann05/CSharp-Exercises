@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\bin\Debug\net7.0\Square-area.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\bin\Debug\net7.0\Square-area.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\bin\Debug\net7.0\Square-area.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\bin\Debug\net7.0\Square-area.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\bin\Debug\net7.0\Square-area.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\refint\Square-area.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\Square-area.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Square-area\obj\Debug\net7.0\ref\Square-area.dll

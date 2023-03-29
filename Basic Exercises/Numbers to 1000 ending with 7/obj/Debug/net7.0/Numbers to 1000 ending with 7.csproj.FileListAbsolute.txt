@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\bin\Debug\net7.0\Numbers to 1000 ending with 7.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\bin\Debug\net7.0\Numbers to 1000 ending with 7.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\bin\Debug\net7.0\Numbers to 1000 ending with 7.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\bin\Debug\net7.0\Numbers to 1000 ending with 7.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\bin\Debug\net7.0\Numbers to 1000 ending with 7.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\refint\Numbers to 1000 ending with 7.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\Numbers to 1000 ending with 7.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Numbers to 1000 ending with 7\obj\Debug\net7.0\ref\Numbers to 1000 ending with 7.dll
