@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\bin\Debug\net7.0\List Negative Number.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\bin\Debug\net7.0\List Negative Number.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\bin\Debug\net7.0\List Negative Number.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\bin\Debug\net7.0\List Negative Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\bin\Debug\net7.0\List Negative Number.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\refint\List Negative Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\List Negative Number.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\List Negative Number\obj\Debug\net7.0\ref\List Negative Number.dll
