@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\bin\Debug\net7.0\Bigger Number.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\bin\Debug\net7.0\Bigger Number.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\bin\Debug\net7.0\Bigger Number.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\bin\Debug\net7.0\Bigger Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\bin\Debug\net7.0\Bigger Number.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\refint\Bigger Number.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\Bigger Number.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Bigger Number\obj\Debug\net7.0\ref\Bigger Number.dll
