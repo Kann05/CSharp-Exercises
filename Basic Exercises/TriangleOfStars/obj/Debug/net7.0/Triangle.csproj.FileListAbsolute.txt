@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\bin\Debug\net7.0\Triangle.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\bin\Debug\net7.0\Triangle.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\bin\Debug\net7.0\Triangle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\bin\Debug\net7.0\Triangle.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Triangle\obj\Debug\net7.0\ref\Triangle.dll
