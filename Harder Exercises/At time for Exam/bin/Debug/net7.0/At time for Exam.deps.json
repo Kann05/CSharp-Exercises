@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "At time for Exam/1.0.0": {
+        "runtime": {
+          "At time for Exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "At time for Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\bin\Debug\net7.0\At time for Exam.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\bin\Debug\net7.0\At time for Exam.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\bin\Debug\net7.0\At time for Exam.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\bin\Debug\net7.0\At time for Exam.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\bin\Debug\net7.0\At time for Exam.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\refint\At time for Exam.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\At time for Exam.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\At time for Exam\obj\Debug\net7.0\ref\At time for Exam.dll
