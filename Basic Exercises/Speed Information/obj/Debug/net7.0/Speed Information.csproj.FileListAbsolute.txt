@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\bin\Debug\net7.0\Speed Information.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\bin\Debug\net7.0\Speed Information.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\bin\Debug\net7.0\Speed Information.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\bin\Debug\net7.0\Speed Information.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\bin\Debug\net7.0\Speed Information.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\refint\Speed Information.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\Speed Information.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Speed Information\obj\Debug\net7.0\ref\Speed Information.dll
