@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\bin\Debug\net7.0\Class Animal.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\bin\Debug\net7.0\Class Animal.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\bin\Debug\net7.0\Class Animal.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\bin\Debug\net7.0\Class Animal.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\bin\Debug\net7.0\Class Animal.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\refint\Class Animal.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\Class Animal.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Animal\obj\Debug\net7.0\ref\Class Animal.dll
