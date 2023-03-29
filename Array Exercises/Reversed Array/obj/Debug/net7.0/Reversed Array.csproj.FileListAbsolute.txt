@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\bin\Debug\net7.0\Reversed Array.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\bin\Debug\net7.0\Reversed Array.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\bin\Debug\net7.0\Reversed Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\bin\Debug\net7.0\Reversed Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\bin\Debug\net7.0\Reversed Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\refint\Reversed Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\Reversed Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Reversed Array\obj\Debug\net7.0\ref\Reversed Array.dll
