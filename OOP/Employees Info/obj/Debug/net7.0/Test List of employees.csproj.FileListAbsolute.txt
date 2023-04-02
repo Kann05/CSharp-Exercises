@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\bin\Debug\net7.0\Test List of employees.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\bin\Debug\net7.0\Test List of employees.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\bin\Debug\net7.0\Test List of employees.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\bin\Debug\net7.0\Test List of employees.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\bin\Debug\net7.0\Test List of employees.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\refint\Test List of employees.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\Test List of employees.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Test List of employees\obj\Debug\net7.0\ref\Test List of employees.dll
