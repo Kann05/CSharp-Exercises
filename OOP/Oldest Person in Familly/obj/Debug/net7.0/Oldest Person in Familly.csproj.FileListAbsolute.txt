@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\bin\Debug\net7.0\Oldest Person in Familly.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\bin\Debug\net7.0\Oldest Person in Familly.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\bin\Debug\net7.0\Oldest Person in Familly.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\bin\Debug\net7.0\Oldest Person in Familly.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\bin\Debug\net7.0\Oldest Person in Familly.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\refint\Oldest Person in Familly.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\Oldest Person in Familly.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Oldest Person in Familly\obj\Debug\net7.0\ref\Oldest Person in Familly.dll
