@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\bin\Debug\net7.0\Fruit or Vegetable.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\bin\Debug\net7.0\Fruit or Vegetable.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\bin\Debug\net7.0\Fruit or Vegetable.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\bin\Debug\net7.0\Fruit or Vegetable.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\bin\Debug\net7.0\Fruit or Vegetable.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\refint\Fruit or Vegetable.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\Fruit or Vegetable.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Fruit or Vegetable\obj\Debug\net7.0\ref\Fruit or Vegetable.dll

@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\bin\Debug\net7.0\Employee Data Writing Clean Code.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\bin\Debug\net7.0\Employee Data Writing Clean Code.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\bin\Debug\net7.0\Employee Data Writing Clean Code.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\bin\Debug\net7.0\Employee Data Writing Clean Code.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\bin\Debug\net7.0\Employee Data Writing Clean Code.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\refint\Employee Data Writing Clean Code.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\Employee Data Writing Clean Code.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Employee Data Writing Clean Code\obj\Debug\net7.0\ref\Employee Data Writing Clean Code.dll

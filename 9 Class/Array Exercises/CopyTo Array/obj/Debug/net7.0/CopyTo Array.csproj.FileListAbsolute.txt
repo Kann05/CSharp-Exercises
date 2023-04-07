@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\bin\Debug\net7.0\CopyTo Array.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\bin\Debug\net7.0\CopyTo Array.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\bin\Debug\net7.0\CopyTo Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\bin\Debug\net7.0\CopyTo Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\bin\Debug\net7.0\CopyTo Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\refint\CopyTo Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\CopyTo Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\CopyTo Array\obj\Debug\net7.0\ref\CopyTo Array.dll

@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\bin\Debug\net7.0\Class Person exercise.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\bin\Debug\net7.0\Class Person exercise.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\bin\Debug\net7.0\Class Person exercise.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\bin\Debug\net7.0\Class Person exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\bin\Debug\net7.0\Class Person exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\refint\Class Person exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\Class Person exercise.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Class Person exercise\obj\Debug\net7.0\ref\Class Person exercise.dll

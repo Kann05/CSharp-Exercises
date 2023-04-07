@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\bin\Debug\net7.0\Hotel Room Exercise.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\bin\Debug\net7.0\Hotel Room Exercise.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\bin\Debug\net7.0\Hotel Room Exercise.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\bin\Debug\net7.0\Hotel Room Exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\bin\Debug\net7.0\Hotel Room Exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\refint\Hotel Room Exercise.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\Hotel Room Exercise.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Hotel Room Exercise\obj\Debug\net7.0\ref\Hotel Room Exercise.dll

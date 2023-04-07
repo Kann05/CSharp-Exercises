@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\bin\Debug\net7.0\Positive Negative.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\bin\Debug\net7.0\Positive Negative.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\bin\Debug\net7.0\Positive Negative.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\bin\Debug\net7.0\Positive Negative.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\bin\Debug\net7.0\Positive Negative.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\refint\Positive Negative.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\Positive Negative.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Positive Negative\obj\Debug\net7.0\ref\Positive Negative.dll

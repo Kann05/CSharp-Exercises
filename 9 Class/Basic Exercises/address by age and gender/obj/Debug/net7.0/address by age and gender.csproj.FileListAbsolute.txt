@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\bin\Debug\net7.0\address by age and gender.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\bin\Debug\net7.0\address by age and gender.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\bin\Debug\net7.0\address by age and gender.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\bin\Debug\net7.0\address by age and gender.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\bin\Debug\net7.0\address by age and gender.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\refint\address by age and gender.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\address by age and gender.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\address by age and gender\obj\Debug\net7.0\ref\address by age and gender.dll

@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\bin\Debug\net7.0\IndexOf Array.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\bin\Debug\net7.0\IndexOf Array.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\bin\Debug\net7.0\IndexOf Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\bin\Debug\net7.0\IndexOf Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\bin\Debug\net7.0\IndexOf Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\refint\IndexOf Array.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\IndexOf Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\IndexOf Array\obj\Debug\net7.0\ref\IndexOf Array.dll

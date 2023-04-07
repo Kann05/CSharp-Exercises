@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\bin\Debug\net7.0\Countingto20.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\bin\Debug\net7.0\Countingto20.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\bin\Debug\net7.0\Countingto20.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\bin\Debug\net7.0\Countingto20.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\bin\Debug\net7.0\Countingto20.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\refint\Countingto20.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\Countingto20.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Countingto20\obj\Debug\net7.0\ref\Countingto20.dll

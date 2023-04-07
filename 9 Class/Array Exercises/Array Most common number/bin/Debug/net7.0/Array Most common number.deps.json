@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Array Most common number/1.0.0": {
+        "runtime": {
+          "Array Most common number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array Most common number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

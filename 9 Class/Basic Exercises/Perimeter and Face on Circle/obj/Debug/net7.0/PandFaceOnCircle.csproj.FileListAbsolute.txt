@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\bin\Debug\net7.0\PandFaceOnCircle.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\bin\Debug\net7.0\PandFaceOnCircle.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\bin\Debug\net7.0\PandFaceOnCircle.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\bin\Debug\net7.0\PandFaceOnCircle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\bin\Debug\net7.0\PandFaceOnCircle.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\refint\PandFaceOnCircle.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\PandFaceOnCircle.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\PandFaceOnCircle\obj\Debug\net7.0\ref\PandFaceOnCircle.dll

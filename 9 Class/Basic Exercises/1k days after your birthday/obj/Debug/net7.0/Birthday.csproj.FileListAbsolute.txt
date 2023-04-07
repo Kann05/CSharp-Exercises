@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\bin\Debug\net7.0\Birthday.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\bin\Debug\net7.0\Birthday.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\bin\Debug\net7.0\Birthday.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\bin\Debug\net7.0\Birthday.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\bin\Debug\net7.0\Birthday.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\refint\Birthday.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\Birthday.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\1k days after your birthday\obj\Debug\net7.0\ref\Birthday.dll

@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\bin\Debug\net7.0\Day of the Week.exe
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\bin\Debug\net7.0\Day of the Week.deps.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\bin\Debug\net7.0\Day of the Week.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\bin\Debug\net7.0\Day of the Week.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\bin\Debug\net7.0\Day of the Week.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\refint\Day of the Week.dll
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.pdb
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\Day of the Week.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\9 Class Exercises\Day of the Week\obj\Debug\net7.0\ref\Day of the Week.dll
