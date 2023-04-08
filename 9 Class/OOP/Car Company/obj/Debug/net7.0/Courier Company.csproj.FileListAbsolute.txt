@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\bin\Debug\net7.0\Courier Company.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\bin\Debug\net7.0\Courier Company.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\bin\Debug\net7.0\Courier Company.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\bin\Debug\net7.0\Courier Company.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\bin\Debug\net7.0\Courier Company.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\refint\Courier Company.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\Courier Company.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Courier Company\obj\Debug\net7.0\ref\Courier Company.dll
