@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\bin\Debug\net7.0\Duel Game.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\bin\Debug\net7.0\Duel Game.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\bin\Debug\net7.0\Duel Game.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\bin\Debug\net7.0\Duel Game.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\bin\Debug\net7.0\Duel Game.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\refint\Duel Game.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\Duel Game.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Duel Game\obj\Debug\net7.0\ref\Duel Game.dll
