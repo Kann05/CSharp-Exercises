@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\bin\Debug\net7.0\Pizza order calories.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\bin\Debug\net7.0\Pizza order calories.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\bin\Debug\net7.0\Pizza order calories.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\bin\Debug\net7.0\Pizza order calories.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\bin\Debug\net7.0\Pizza order calories.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\refint\Pizza order calories.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\Pizza order calories.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Pizza order calories\obj\Debug\net7.0\ref\Pizza order calories.dll
