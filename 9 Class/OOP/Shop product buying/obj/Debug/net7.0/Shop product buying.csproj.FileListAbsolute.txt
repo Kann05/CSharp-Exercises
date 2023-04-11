@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\bin\Debug\net7.0\Shop product buying.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\bin\Debug\net7.0\Shop product buying.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\bin\Debug\net7.0\Shop product buying.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\bin\Debug\net7.0\Shop product buying.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\bin\Debug\net7.0\Shop product buying.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\refint\Shop product buying.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\Shop product buying.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Shop product buying\obj\Debug\net7.0\ref\Shop product buying.dll
