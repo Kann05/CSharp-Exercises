@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sort people by names/1.0.0": {
+        "runtime": {
+          "Sort people by names.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort people by names/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

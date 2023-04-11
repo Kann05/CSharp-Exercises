@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\bin\Debug\net7.0\Sort people by names.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\bin\Debug\net7.0\Sort people by names.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\bin\Debug\net7.0\Sort people by names.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\bin\Debug\net7.0\Sort people by names.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\bin\Debug\net7.0\Sort people by names.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\refint\Sort people by names.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\Sort people by names.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Sort people by names\obj\Debug\net7.0\ref\Sort people by names.dll
