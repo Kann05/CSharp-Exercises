@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\bin\Debug\net7.0\Pool Pipe.exe
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\bin\Debug\net7.0\Pool Pipe.deps.json
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\bin\Debug\net7.0\Pool Pipe.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\bin\Debug\net7.0\Pool Pipe.dll
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\bin\Debug\net7.0\Pool Pipe.pdb
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.dll
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\refint\Pool Pipe.dll
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.pdb
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\Pool Pipe.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\MVC Model Practise 11 Class\Pool Pipe\obj\Debug\net7.0\ref\Pool Pipe.dll
