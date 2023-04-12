@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\bin\Debug\net7.0\Insert to Array.exe
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\bin\Debug\net7.0\Insert to Array.deps.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\bin\Debug\net7.0\Insert to Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\bin\Debug\net7.0\Insert to Array.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\bin\Debug\net7.0\Insert to Array.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\refint\Insert to Array.dll
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.pdb
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\Insert to Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\10 Class Exercises\Insert to Array\obj\Debug\net7.0\ref\Insert to Array.dll
