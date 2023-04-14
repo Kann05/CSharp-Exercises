@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\bin\Debug\net7.0\Generics exercise.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\bin\Debug\net7.0\Generics exercise.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\bin\Debug\net7.0\Generics exercise.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\bin\Debug\net7.0\Generics exercise.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\bin\Debug\net7.0\Generics exercise.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\refint\Generics exercise.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\Generics exercise.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Generics exercise\obj\Debug\net7.0\ref\Generics exercise.dll
