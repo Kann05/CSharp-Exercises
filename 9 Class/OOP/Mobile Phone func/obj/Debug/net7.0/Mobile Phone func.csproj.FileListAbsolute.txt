@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\bin\Debug\net7.0\Mobile Phone func.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\bin\Debug\net7.0\Mobile Phone func.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\bin\Debug\net7.0\Mobile Phone func.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\bin\Debug\net7.0\Mobile Phone func.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\bin\Debug\net7.0\Mobile Phone func.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\refint\Mobile Phone func.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\Mobile Phone func.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone func\obj\Debug\net7.0\ref\Mobile Phone func.dll

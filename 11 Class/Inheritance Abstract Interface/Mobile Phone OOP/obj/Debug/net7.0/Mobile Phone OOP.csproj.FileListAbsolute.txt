@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\bin\Debug\net7.0\Mobile Phone OOP.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\bin\Debug\net7.0\Mobile Phone OOP.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\bin\Debug\net7.0\Mobile Phone OOP.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\bin\Debug\net7.0\Mobile Phone OOP.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\bin\Debug\net7.0\Mobile Phone OOP.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\refint\Mobile Phone OOP.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\Mobile Phone OOP.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Mobile Phone OOP\obj\Debug\net7.0\ref\Mobile Phone OOP.dll
