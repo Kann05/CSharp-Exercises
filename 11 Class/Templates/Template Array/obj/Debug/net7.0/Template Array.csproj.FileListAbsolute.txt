@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\bin\Debug\net7.0\Template Array.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\bin\Debug\net7.0\Template Array.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\bin\Debug\net7.0\Template Array.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\bin\Debug\net7.0\Template Array.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\bin\Debug\net7.0\Template Array.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\refint\Template Array.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\Template Array.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Template Array\obj\Debug\net7.0\ref\Template Array.dll
