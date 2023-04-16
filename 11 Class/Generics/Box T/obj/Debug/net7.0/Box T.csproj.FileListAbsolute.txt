@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\bin\Debug\net7.0\Box T.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\bin\Debug\net7.0\Box T.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\bin\Debug\net7.0\Box T.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\bin\Debug\net7.0\Box T.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\bin\Debug\net7.0\Box T.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\refint\Box T.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\Box T.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Box T\obj\Debug\net7.0\ref\Box T.dll
