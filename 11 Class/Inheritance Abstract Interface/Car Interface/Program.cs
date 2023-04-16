@@ -17,8 +17,7 @@ public class Fields
     public string color;
     public string start;
     public string stop;
-    public
-    double batteryHealth;
+    public double batteryHealth;
 
 }
 public class Seat : ICar
