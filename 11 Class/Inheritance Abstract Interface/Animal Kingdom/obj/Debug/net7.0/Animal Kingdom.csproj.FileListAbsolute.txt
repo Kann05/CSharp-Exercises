@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\bin\Debug\net7.0\Animal Kingdom.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\bin\Debug\net7.0\Animal Kingdom.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\bin\Debug\net7.0\Animal Kingdom.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\bin\Debug\net7.0\Animal Kingdom.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\bin\Debug\net7.0\Animal Kingdom.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\refint\Animal Kingdom.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\Animal Kingdom.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\Animal Kingdom\obj\Debug\net7.0\ref\Animal Kingdom.dll
