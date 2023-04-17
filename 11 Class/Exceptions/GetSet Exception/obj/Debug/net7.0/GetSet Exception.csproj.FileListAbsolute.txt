@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\bin\Debug\net7.0\GetSet Exception.exe
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\bin\Debug\net7.0\GetSet Exception.deps.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\bin\Debug\net7.0\GetSet Exception.runtimeconfig.json
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\bin\Debug\net7.0\GetSet Exception.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\bin\Debug\net7.0\GetSet Exception.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\refint\GetSet Exception.dll
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.pdb
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\GetSet Exception.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Programming\11 Class Exercises\GetSet Exception\obj\Debug\net7.0\ref\GetSet Exception.dll
