@@ -1,0 +1,1 @@
+Thats how you auto create a txt file and write something in it using StreamWriter
