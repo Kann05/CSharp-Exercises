@@ -1,0 +1,15 @@
+C:\Users\Erkan\Desktop\exercises\Linq practise\bin\Debug\net7.0\Linq practise.exe
+C:\Users\Erkan\Desktop\exercises\Linq practise\bin\Debug\net7.0\Linq practise.deps.json
+C:\Users\Erkan\Desktop\exercises\Linq practise\bin\Debug\net7.0\Linq practise.runtimeconfig.json
+C:\Users\Erkan\Desktop\exercises\Linq practise\bin\Debug\net7.0\Linq practise.dll
+C:\Users\Erkan\Desktop\exercises\Linq practise\bin\Debug\net7.0\Linq practise.pdb
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.dll
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\refint\Linq practise.dll
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.pdb
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\Linq practise.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\exercises\Linq practise\obj\Debug\net7.0\ref\Linq practise.dll
