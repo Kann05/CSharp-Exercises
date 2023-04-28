@@ -1,0 +1,8 @@
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\bin\Debug\Register to website custom message.exe.config
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\bin\Debug\Register to website custom message.exe
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\bin\Debug\Register to website custom message.pdb
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\obj\Debug\Register to website custom message.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\obj\Debug\Register to website custom message.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\obj\Debug\Register to website custom message.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\obj\Debug\Register to website custom message.exe
+C:\Users\Erkan\source\repos\Exercises\Register to website custom message\obj\Debug\Register to website custom message.pdb
