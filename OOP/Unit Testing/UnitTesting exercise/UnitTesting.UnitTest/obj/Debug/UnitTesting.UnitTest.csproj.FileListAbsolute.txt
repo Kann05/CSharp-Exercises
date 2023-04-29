@@ -1,0 +1,18 @@
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\UnitTesting.UnitTest.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\UnitTesting.UnitTest.pdb
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\UnitTesting exercise1.exe
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\UnitTesting exercise1.pdb
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\UnitTesting exercise1.exe.config
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\obj\Debug\UnitTesting.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\obj\Debug\UnitTesting.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\obj\Debug\UnitTesting.UnitTest.csproj.CopyComplete
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\obj\Debug\UnitTesting.UnitTest.dll
+C:\Users\Erkan\source\repos\Unit Testing\UnitTesting.UnitTest\obj\Debug\UnitTesting.UnitTest.pdb
