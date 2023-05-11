@@ -1,0 +1,8 @@
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\bin\Debug\Type.exe.config
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\bin\Debug\Type.exe
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\bin\Debug\Type.pdb
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\obj\Debug\Type.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\obj\Debug\Type.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\obj\Debug\Type.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\obj\Debug\Type.exe
+C:\Users\Erkan\source\repos\Reflection and Attributes\Type\obj\Debug\Type.pdb
