@@ -1,0 +1,17 @@
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Mocking.exe.config
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Mocking.exe
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Mocking.pdb
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Castle.Core.dll
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Moq.dll
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Castle.Core.xml
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\Moq.xml
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Erkan\source\repos\Mocking\Mocking\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.csproj.CopyComplete
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.exe
+C:\Users\Erkan\source\repos\Mocking\Mocking\obj\Debug\Mocking.pdb
