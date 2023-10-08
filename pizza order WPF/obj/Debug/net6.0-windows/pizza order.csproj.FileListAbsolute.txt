@@ -1,0 +1,23 @@
+C:\Users\Erkan\source\repos\pizza order\pizza order\bin\Debug\net6.0-windows\pizza order.exe
+C:\Users\Erkan\source\repos\pizza order\pizza order\bin\Debug\net6.0-windows\pizza order.deps.json
+C:\Users\Erkan\source\repos\pizza order\pizza order\bin\Debug\net6.0-windows\pizza order.runtimeconfig.json
+C:\Users\Erkan\source\repos\pizza order\pizza order\bin\Debug\net6.0-windows\pizza order.dll
+C:\Users\Erkan\source\repos\pizza order\pizza order\bin\Debug\net6.0-windows\pizza order.pdb
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order_MarkupCompile.cache
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order_MarkupCompile.lref
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.g.resources
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.dll
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\refint\pizza order.dll
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.pdb
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\pizza order.genruntimeconfig.cache
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\ref\pizza order.dll
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\Order.g.cs
+C:\Users\Erkan\source\repos\pizza order\pizza order\obj\Debug\net6.0-windows\Order.baml
