@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>shoe_Shop</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\1.jpg" />
+    <None Remove="Images\2.png" />
+    <None Remove="Images\3.png" />
+    <None Remove="Images\sub1.png" />
+    <None Remove="Images\sub2.png" />
+    <None Remove="Images\sub3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1.jpg" />
+    <Resource Include="Images\2.png" />
+    <Resource Include="Images\3.png" />
+    <Resource Include="Images\sub1.png" />
+    <Resource Include="Images\sub2.png" />
+    <Resource Include="Images\sub3.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop_MarkupCompile.cache
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop_MarkupCompile.lref
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\bin\Debug\net6.0-windows\shoe Shop.exe
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\bin\Debug\net6.0-windows\shoe Shop.deps.json
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\bin\Debug\net6.0-windows\shoe Shop.runtimeconfig.json
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\bin\Debug\net6.0-windows\shoe Shop.dll
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\bin\Debug\net6.0-windows\shoe Shop.pdb
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.g.resources
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.dll
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\refint\shoe Shop.dll
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.pdb
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\shoe Shop.genruntimeconfig.cache
+C:\Users\Erkan\source\repos\shoe Shop\shoe Shop\obj\Debug\net6.0-windows\ref\shoe Shop.dll
