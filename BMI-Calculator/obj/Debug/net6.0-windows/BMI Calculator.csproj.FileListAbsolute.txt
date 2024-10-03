@@ -1,0 +1,21 @@
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator_MarkupCompile.cache
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.exe
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.deps.json
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.runtimeconfig.json
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.dll
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.pdb
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator_MarkupCompile.lref
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.g.resources
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.dll
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\refint\BMI Calculator.dll
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.pdb
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.genruntimeconfig.cache
+C:\Users\Erkan\source\repos\Unit Testing\BMI Calculator\obj\Debug\net6.0-windows\ref\BMI Calculator.dll
